@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'BibliotecaIdsUITests' in project 'BibliotecaIds' (no dependencies)
+Target 'BibliotecaIdsUITests' in project 'BibliotecaIds'
+➜ Explicit dependency on target 'BibliotecaIds' in project 'BibliotecaIds'
+Target 'BibliotecaIdsUITests' in project 'BibliotecaIds'
+➜ Explicit dependency on target 'BibliotecaIds' in project 'BibliotecaIds'
+Target 'BibliotecaIdsTests' in project 'BibliotecaIds' (no dependencies)
+Target 'BibliotecaIdsTests' in project 'BibliotecaIds'
+➜ Explicit dependency on target 'BibliotecaIds' in project 'BibliotecaIds'
+Target 'BibliotecaIdsTests' in project 'BibliotecaIds'
+➜ Explicit dependency on target 'BibliotecaIds' in project 'BibliotecaIds'
+Target 'BibliotecaIds' in project 'BibliotecaIds' (no dependencies)
+Target 'BibliotecaIds' in project 'BibliotecaIds' (no dependencies)
