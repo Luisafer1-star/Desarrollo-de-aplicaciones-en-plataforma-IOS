@@ -1,0 +1,16 @@
+# Xcode
+DerivedData/
+build/
+
+#User settings
+#.xcurserstate
+#.xcworkspace
+
+#macOS
+.DS_Store
+
+#Swift Package Manager
+.build/
+
+# Xcode user data
+xcurserdata/
