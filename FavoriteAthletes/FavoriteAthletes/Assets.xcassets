@@ -1,0 +1,6 @@
+/* com.apple.actool.catalog-contents */
+filename: Assets.xcassets
+children:           
+          filename: AccentColor.colorset
+          
+          filename: AppIcon.appiconset
